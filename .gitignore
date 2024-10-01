@@ -1,0 +1,63 @@
+# Compiled object files
+*.o
+*.obj
+
+# Compiled dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled static libraries
+*.lib
+*.a
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Debugging/Profiler Files
+*.dSYM/
+*.prof
+*.gcda
+*.gcno
+*.gcov
+
+# Dependency files
+*.d
+*.dep
+
+# IDE or editor files
+*.swp
+*~
+.vscode/
+.idea/
+*.code-workspace
+
+# Backup files
+*.bak
+*.old
+
+# Logs
+*.log
+
+# CMake build files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Auto-generated documentation
+docs/
+*.pdf
+*.html
+
+# Ignore build/ directory
+build/
+
+# Ignore output folder (if using custom folder)
+output/
+
+# Miscellaneous
+tags
+.DS_Store
